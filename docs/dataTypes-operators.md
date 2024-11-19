@@ -1,1 +1,1 @@
-> [go to Home page](./README.md)
+> [go to Home page](../README.md)
